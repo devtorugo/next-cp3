@@ -1,1 +1,1 @@
-CP III – Criando uma página simplesusando o React
+CP III – Criando uma página simples usando o React
