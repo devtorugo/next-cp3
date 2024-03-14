@@ -9,6 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Lista de filmes",
   description: "Assista os melhores filmes aqui.",
+  
 };
 
 export default function RootLayout({
